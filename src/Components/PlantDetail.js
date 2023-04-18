@@ -14,6 +14,8 @@ function PlantDetail(){
 
     const plantData=data[plantName];
 
+    console.log(plantName,plantData)
+
 
     const benifitsArray=plantData["health_benefits"].map((ele,index)=>{
         return (

@@ -43,7 +43,7 @@
     "Tulsi":{
       "image": "tulsi.jpg",
       "description": "Tulsi, also known as holy basil, is a highly aromatic plant with a sweet and slightly peppery taste. It has been used for centuries in Ayurvedic medicine to treat a wide range of ailments.",    
-      "health-benefits": [
+      "health_benefits": [
         "Helps to reduce stress and anxiety",
         "Boosts immunity and fights infections",
         "Improves respiratory health and relieves asthma symptoms",
@@ -55,7 +55,7 @@
   "Fenugreek":{
     "image": "fenugreek.jpg",
     "description": "Fenugreek is a herb commonly used in Indian and Middle Eastern cuisine. It has a slightly bitter taste and is often used to flavor curries and chutneys. Fenugreek is also known for its medicinal properties and has been used in traditional medicine for thousands of years.",
-    "health-benefits": [
+    "health_benefits": [
       "Lowers cholesterol and reduces the risk of heart disease",
       "Improves digestion and relieves constipation",
       "Helps to regulate blood sugar levels and manage diabetes",
