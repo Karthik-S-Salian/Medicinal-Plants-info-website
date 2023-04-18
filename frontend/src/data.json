@@ -1,0 +1,67 @@
+{
+    "Aloe Vera": {
+        "image": "aloevera.jpg",
+        "description": "Aloe Vera is a succulent plant species that is commonly found in tropical climates. It has thick, fleshy leaves that contain a gel-like substance that is rich in nutrients.",
+        "health_benefits": [
+            "Helps in digestion and relieves constipation",
+            "Boosts the immune system",
+            "Helps in reducing inflammation",
+            "Promotes healthy skin and hair"
+        ]
+    },
+    "Turmeric": {
+        "image": "turmeric.jpg",
+        "description": "Turmeric is a flowering plant that is a member of the ginger family. It is commonly used as a spice in Indian and Southeast Asian cuisine, and has also been used in traditional medicine for thousands of years.",
+        "health_benefits": [
+            "Has anti-inflammatory and antioxidant properties",
+            "Helps in managing arthritis pain",
+            "May help in reducing the risk of heart disease",
+            "May have a protective effect against certain types of cancer"
+        ]
+    },
+    "Ginger": {
+        "image": "ginger.jpg",
+        "description": "Ginger is a flowering plant that is closely related to turmeric. It is commonly used as a spice in cooking, and has also been used in traditional medicine for thousands of years.",
+        "health_benefits": [
+            "Has anti-inflammatory and antioxidant properties",
+            "Helps in managing nausea and vomiting",
+            "May help in reducing muscle pain and soreness",
+            "May help in reducing the risk of heart disease"
+        ]
+    },
+
+    "Echinacea":{
+      "image": "echinacea.jpg",
+      "description": "Echinacea is a flowering plant native to North America. It has been traditionally used for its immune-boosting properties.",
+      "health_benefits": [
+        "May help boost immune system",
+        "May help reduce symptoms of colds and flu",
+        "May have anti-inflammatory properties"
+      ]
+    },
+
+    "Tulsi":{
+      "image": "tulsi.jpg",
+      "description": "Tulsi, also known as holy basil, is a highly aromatic plant with a sweet and slightly peppery taste. It has been used for centuries in Ayurvedic medicine to treat a wide range of ailments.",    
+      "health-benefits": [
+        "Helps to reduce stress and anxiety",
+        "Boosts immunity and fights infections",
+        "Improves respiratory health and relieves asthma symptoms",
+        "Promotes healthy digestion and reduces inflammation",
+        "Regulates blood sugar levels and helps manage diabetes"
+      ]
+  },
+
+  "Fenugreek":{
+    "image": "fenugreek.jpg",
+    "description": "Fenugreek is a herb commonly used in Indian and Middle Eastern cuisine. It has a slightly bitter taste and is often used to flavor curries and chutneys. Fenugreek is also known for its medicinal properties and has been used in traditional medicine for thousands of years.",
+    "health-benefits": [
+      "Lowers cholesterol and reduces the risk of heart disease",
+      "Improves digestion and relieves constipation",
+      "Helps to regulate blood sugar levels and manage diabetes",
+      "Increases milk production in breastfeeding women",
+      "Reduces inflammation and relieves pain"
+    ]
+  }
+
+}
