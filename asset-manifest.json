@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Medicinal-Plants-info-website/static/css/main.fc77be01.css",
+    "main.js": "/Medicinal-Plants-info-website/static/js/main.82e1d897.js",
+    "static/js/787.c55daa8e.chunk.js": "/Medicinal-Plants-info-website/static/js/787.c55daa8e.chunk.js",
+    "static/media/flowers.jpg": "/Medicinal-Plants-info-website/static/media/flowers.80c976f0005ca87a81ed.jpg",
+    "static/media/ayurveda.jpg": "/Medicinal-Plants-info-website/static/media/ayurveda.6d25a5f8d3016dbc8e08.jpg",
+    "static/media/ginger.jpg": "/Medicinal-Plants-info-website/static/media/ginger.6071bd70898a336dd7fb.jpg",
+    "static/media/fenugreek.jpg": "/Medicinal-Plants-info-website/static/media/fenugreek.87bba053b6413cc1cde4.jpg",
+    "static/media/echinacea.jpg": "/Medicinal-Plants-info-website/static/media/echinacea.2b7d0bdcf7c316ca41d3.jpg",
+    "static/media/field.jpg": "/Medicinal-Plants-info-website/static/media/field.14629fdd3ef8b81e3ca9.jpg",
+    "static/media/turmeric.jpg": "/Medicinal-Plants-info-website/static/media/turmeric.87f3150ad2406d0a5867.jpg",
+    "static/media/tulsi.jpg": "/Medicinal-Plants-info-website/static/media/tulsi.376edc41fac324d378ec.jpg",
+    "static/media/aloevera.jpg": "/Medicinal-Plants-info-website/static/media/aloevera.d6682e7fa596f277f63f.jpg",
+    "index.html": "/Medicinal-Plants-info-website/index.html",
+    "main.fc77be01.css.map": "/Medicinal-Plants-info-website/static/css/main.fc77be01.css.map",
+    "main.82e1d897.js.map": "/Medicinal-Plants-info-website/static/js/main.82e1d897.js.map",
+    "787.c55daa8e.chunk.js.map": "/Medicinal-Plants-info-website/static/js/787.c55daa8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc77be01.css",
+    "static/js/main.82e1d897.js"
+  ]
+}
