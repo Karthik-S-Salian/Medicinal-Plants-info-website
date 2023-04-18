@@ -29,7 +29,7 @@ function PlantDetail(){
             </header>
             
             <section>
-                <img src={require(`./../images/${plantData.image}`)}/>
+                <img src={require(`./../images/${plantData.image}`)} alt={plantName}/>
                 <p>
                     {plantData.description}
                 </p>
