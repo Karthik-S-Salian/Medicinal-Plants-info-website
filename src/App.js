@@ -7,9 +7,9 @@ function App() {
     <div>
       
     <Routes>
-      <Route exact path="#/" element={<Home/>} />
-      <Route exact path="#/plant-detail" element={<PlantDetail/>} />
-      <Route path="*" element={<Navigate replace to="#/" />} />  
+      <Route exact path="/" element={<Home/>} />
+      <Route exact path="/plant-detail" element={<PlantDetail/>} />
+      <Route path="*" element={<Navigate replace to="/" />} />  
     </Routes>
       
     </div>
