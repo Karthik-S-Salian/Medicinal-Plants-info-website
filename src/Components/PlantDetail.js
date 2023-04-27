@@ -5,7 +5,7 @@ import { useEffect } from "react";
 
 
 function PlantDetail(){
-    const [searchParams, setSearchParams] = useSearchParams();
+    const [searchParams] = useSearchParams();
     const plantName=searchParams.get("plant")
 
     useEffect(() => {
