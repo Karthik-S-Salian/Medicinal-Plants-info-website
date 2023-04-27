@@ -3,14 +3,23 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter } from 'react-router-dom';
+//import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
+
+/*
+! IMPORTANT !
+using hashrouter instead of browserRouter is only
+for github pages (multipage server with no control on server)
+while using your own configured server or single page server change
+hashrouter to browserrouter
+*/
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>  
     <App />
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
 
