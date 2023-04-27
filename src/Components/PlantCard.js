@@ -6,7 +6,7 @@ function PlantCard(props){
 
     return (
         <Link to={{
-            pathname: "/plant-detail",
+            pathname: "#/plant-detail",
             search: `?${createSearchParams({
                 plant: props.name
             })}`

@@ -44,7 +44,7 @@ function PlantDetail(){
                 </ol>
             </section>
                 
-            <Link to="/">
+            <Link to="#/">
                 <section id="backButton">BACK TO HOME</section>
             </Link>  
 
