@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Medicinal-Plants-info-website/static/css/main.fc77be01.css",
-    "main.js": "/Medicinal-Plants-info-website/static/js/main.db1ac4f7.js",
+    "main.js": "/Medicinal-Plants-info-website/static/js/main.41b8c9e9.js",
     "static/js/787.c55daa8e.chunk.js": "/Medicinal-Plants-info-website/static/js/787.c55daa8e.chunk.js",
     "static/media/flowers.jpg": "/Medicinal-Plants-info-website/static/media/flowers.80c976f0005ca87a81ed.jpg",
     "static/media/ayurveda.jpg": "/Medicinal-Plants-info-website/static/media/ayurveda.6d25a5f8d3016dbc8e08.jpg",
@@ -14,11 +14,11 @@
     "static/media/aloevera.jpg": "/Medicinal-Plants-info-website/static/media/aloevera.d6682e7fa596f277f63f.jpg",
     "index.html": "/Medicinal-Plants-info-website/index.html",
     "main.fc77be01.css.map": "/Medicinal-Plants-info-website/static/css/main.fc77be01.css.map",
-    "main.db1ac4f7.js.map": "/Medicinal-Plants-info-website/static/js/main.db1ac4f7.js.map",
+    "main.41b8c9e9.js.map": "/Medicinal-Plants-info-website/static/js/main.41b8c9e9.js.map",
     "787.c55daa8e.chunk.js.map": "/Medicinal-Plants-info-website/static/js/787.c55daa8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc77be01.css",
-    "static/js/main.db1ac4f7.js"
+    "static/js/main.41b8c9e9.js"
   ]
 }
